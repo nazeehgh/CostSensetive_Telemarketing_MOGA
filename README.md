@@ -1,5 +1,5 @@
 # CostSensetive_Telemarketing_MOGA
-CostSensetive Telemarketing using the Modified Genetic Algorithm for Feature Selection and Hyperparameter Optimization
+CostSensetive Modeling of  Telemarketing using the Modified Genetic Algorithm for Feature Selection and Hyperparameter Optimization
 
 Citation Request: Please cite the following paper if you use the code:
 
